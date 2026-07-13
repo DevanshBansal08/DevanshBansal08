@@ -1,6 +1,6 @@
 # About Me 
 
-- 🎓 2nd Year BE - Computer Science Engineering Student 
+- 🎓 3rd Year BE - Computer Science Engineering Student 
 - 💻 Passionate about **Data Structures & Algorithms & Competitive
 Coding** 
 - 🔐 Exploring **Backend Development & Blockchain** 
